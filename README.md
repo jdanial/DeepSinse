@@ -7,4 +7,4 @@ To generate datasets from experimentally-obtained images, run the `ROIPicker` ap
 ## Deployment
 To deploy the neural network on experimentally-acquired images (after training), please run the `deploy` code.
 ## Implementation
-For a faster implemention, please check the [StormProcessor](https://github.com/jdanial/DeepSinse/StormProcessor).
+For a faster implemention, please check the [StormProcessor](https://github.com/jdanial/StormProcessor).
